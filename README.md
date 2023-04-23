@@ -2,7 +2,7 @@
 
 This Python script is designed to scrape a target website, extract useful information, clean and deduplicate the text, and generate embeddings using OpenAI's API. The extracted text sections and their corresponding embeddings are then saved to a CSV file.
 
-**Note**: This script might not work for all websites. Some websites have security measures that prevent web scraping, and you might encounter errors like the one shown below:
+**Note**: This script might not work for all websites. Some websites have security measures that prevent web scraping, and you might encounter errors like the one shown below. These things could be fixed using a headless browser or similar solution, but that's not written in this code... yet. 
 
 Sample cleaned data:
 1: Error code: 1020
